@@ -1,4 +1,4 @@
 # EmployeeSQL-repo
 SQL homework challenge
 
-![ERD-SQL-Callenge](SQLChallenge.jpg)
+![ERD-SQL-Callenge](https://github.com/cyffer/EmployeeSQL-repo.git/SQLChallenge.jpg)
