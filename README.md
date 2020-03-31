@@ -1,4 +1,4 @@
 # EmployeeSQL-repo
 SQL homework challenge
 
-![ERD-SQL-Callenge](/cyffer/EmployeeSQL-repo.git/SQLChallenge.jpg)
+![ERD-SQL-Callenge]("EmployeeSQL-repo.git/SQLChallenge.jpg")
