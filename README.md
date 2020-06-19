@@ -9,9 +9,13 @@ In this assignment inspected the CSVs,  and diagrammed ERD data model.
 
 **Data Engineering**
 
-Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+Created a database and table schema for each of the six CSV files.  Specified data types, primary keys, foreign keys, and other constraints.
 
-Import each CSV file into the corresponding SQL table.
+Imported each CSV file into the corresponding SQL table. (Screenshot)
+
+![employeesDB](https://github.com/cyffer/EmployeeSQL-repo/blob/master/employeesDB.jpg)
+
+SQL
 
 ```SQL
 CREATE TABLE "departments" (
